@@ -1,0 +1,11 @@
+abstract: Array Object
+author: 'Richard Hundt <richard NO SPAM AT protea-systems.com>'
+distribution_type: module
+generated_by: Module::Install version 0.63
+license: artistic
+name: Array-Object
+no_index:
+  directory:
+    - inc
+    - t
+version: 0.01
